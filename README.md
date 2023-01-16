@@ -6,7 +6,6 @@
 * [Technologies](#technologies)
 ## General-info
 Code which I wrote during Python ML course lessons.
-In folders you will find all information about each project.
 
 ## Projects-list
 * [Image Classification](https://github.com/Bronid/Python-projects-CDV/tree/master/Klasyfikacja%20obraz%C3%B3w) - project about computer vision.
